@@ -22,8 +22,8 @@
     "storybook:build": "storybook build"
   },
   "dependencies": {
-    "@mantine-vue/core": "2.0.1",
-    "@mantine-vue/hooks": "2.0.1",
+    "@mantine-vue/core": "2.1.0",
+    "@mantine-vue/hooks": "2.1.0",
     "@tabler/icons-vue": "^3.35.0",
     "nuxt": "^4.0.0",
     "vue": "^3.5.0",
